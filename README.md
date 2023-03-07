@@ -28,5 +28,8 @@ ENGLISH VERSION (Texto em Português abaixo)
 
 * Yahoo! Finance is a media property that is part of Yahoo! It network provides financial news, data and commentary, including stock quotes, press releases, financial reports and original content.
 
+
+* 
+
 .... building
 
