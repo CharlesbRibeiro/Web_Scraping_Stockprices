@@ -46,11 +46,11 @@
 
 # Contexto do Repositório 📜
 
-* Com a explosão de dados nas últimas décadas, constantemente temos que acessar dados em nossas áreas de atuação e realizar análises. Com minha experiência de trabalho, muitas vezes meu gerente me pede para coletar alguns dados específicos ou uma série de dados de um site.
+* Com a explosão de dados nas últimas décadas, constantemente temos que acessar dados em nossas áreas de atuação e realizar análises. Com minha experiência de trabalho, muitas vezes meu gerente me pedia para coletar dados específicos ou uma série de dados de um site.
 
 * Lembro que muitas vezes essas rotinas demoravam muito para serem realizadas e às vezes essas rotinas eram feitas manualmente.
 
-* Por isso, para ajudar a solucionar esse tipo de problema, resolvi demonstrar, através da linguagem de programação R, um processo de coleta de dados de um site específico.
+* Por isso, para solucionar esse tipo de problema, resolvi demonstrar, através da linguagem de programação R, um processo de coleta de dados de um site específico.
 
 # Web Scraping context 💻 🌐
 
